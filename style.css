@@ -338,7 +338,7 @@ section .title::before {
     animation: pulsate 1s ease-in-out;
   }
   
-  /*  Service  */
+
   .Resume,
   .projects {
     color: #fff;
